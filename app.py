@@ -81,6 +81,7 @@ def handle_write():
     The consistency level is determined by a query parameter.
     ?consistency=strong -> Strong Consistency
     ?consistency=eventual (or omitted) -> Eventual Consistency
+    testing
     """
     try:
         write_data = request.get_json()
