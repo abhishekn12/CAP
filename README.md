@@ -1,4 +1,4 @@
-The CAP Theorem (also known as Brewer’s Theorem) states that in any distributed system, you can only guarantee 2 out of the following 3 properties at a time:
+The CAP Theorem (also known as Brewer’s Theorem) states that in any distributed system, you can only guarantee 2 out of the following 3 properties at a timeeee:
 
 🔁 CAP Trade-offs
 ✅ CP (Consistency + Partition Tolerance)
